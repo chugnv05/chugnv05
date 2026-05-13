@@ -71,8 +71,8 @@ A comprehensive web application for managing rental properties and tenant inform
 
 Let's connect and discuss tech, projects, or opportunities!
 
-- **Telegram**: [Connect via Telegram](https://t.me/chugnv05)
-- **Instagram**: [@chugnv05](https://instagram.com/chugnv05)
+- **Telegram**: [Connect via Telegram](https://t.me/chugg_05)
+- **Instagram**: [@chugnv05](https://instagram.com/_chugg.05)
 - **GitHub**: [@chugnv05](https://github.com/chugnv05)
 
 ---
