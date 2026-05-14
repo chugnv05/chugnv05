@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-I'm **chugnv05**, a passionate **Programmer** dedicated to crafting elegant solutions and building exceptional web experiences. Like a black hole, I absorb knowledge and stay curious about everything in tech! 🌌
+I'm **chugnv05**, a passionate **Programmer** dedicated to crafting elegant solutions and building exceptional web experiences. Like a black hole, I absorb knowledge and stay curious about everything.
 
 ---
 
@@ -59,6 +59,46 @@ A comprehensive web application for managing rental properties and tenant inform
 
 ---
 
+### 🔐 [API Auth](https://github.com/chugnv05/api-auth)
+A basic authentication API built with Java Spring Boot for secure user authentication and authorization.
+
+**Tech Stack:**
+- Backend: Java Spring Boot
+- Frontend: HTML
+
+**Language Composition:**
+- Java: 94.4%
+- HTML: 5.6%
+
+**Key Features:**
+- User authentication and authorization
+- RESTful API endpoints
+- Secure credential management
+
+---
+
+### 🌐 [Auth Website](https://github.com/chugnv05/auth-website)
+A modern authentication website built with TypeScript and React for user login and registration.
+
+**Tech Stack:**
+- Frontend: TypeScript, React
+- Styling: CSS
+- Framework: Modern web technologies
+
+**Language Composition:**
+- TypeScript: 98.8%
+- CSS: 0.6%
+- HTML: 0.4%
+- JavaScript: 0.2%
+
+**Key Features:**
+- User-friendly authentication interface
+- Modern React components
+- TypeScript for type safety
+- Responsive design
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chugnv05&show_icons=true&theme=radical)
@@ -89,7 +129,7 @@ I'm actively interested in:
 
 ## 🌌 Fun Fact
 
-Like a black hole, I have an insatiable curiosity for technology and knowledge. I absorb information from all directions and continuously evolve my skills. The difference? I actually create value instead of just consuming it! 😄
+Like a black hole, I have an insatiable curiosity for technology and knowledge. I absorb information from all directions and continuously evolve my skills. The difference? I actually create value and contribute back to the community!
 
 ---
 
