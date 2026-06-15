@@ -60,42 +60,63 @@ A comprehensive web application for managing rental properties and tenant inform
 ---
 
 ### 🔐 [API Auth](https://github.com/chugnv05/api-auth)
-A basic authentication API built with Java Spring Boot for secure user authentication and authorization.
+A production-ready Authentication & Authorization REST API built with Spring Boot, JWT, Role-Based Access Control (RBAC), PostgreSQL, and Flyway.
 
 **Tech Stack:**
-- Backend: Java Spring Boot
-- Frontend: HTML
-
-**Language Composition:**
-- Java: 94.4%
-- HTML: 5.6%
+- **Backend**: Java 21 with Spring Boot 3.x & Spring Security 6.x
+- **Database**: PostgreSQL with Flyway for versioning
+- **Authentication**: JWT (Access Token & Refresh Token)
+- **Authorization**: Role-Based Access Control (RBAC) with Permission Management
+- **File Upload**: Cloudinary integration for avatar uploads
+- **API Documentation**: Swagger/OpenAPI with springdoc-openapi
+- **Deployment**: Docker support
+- **Build Tool**: Maven 3.x
 
 **Key Features:**
-- User authentication and authorization
-- RESTful API endpoints
-- Secure credential management
+- ✅ Secure JWT-based authentication with Access & Refresh Tokens
+- ✅ Role-Based Access Control (RBAC) with granular permission management
+- ✅ Complete user management system
+- ✅ User profile management with avatar upload
+- ✅ Database schema versioning with Flyway migrations
+- ✅ Production-ready REST API with comprehensive Swagger documentation
+- ✅ Docker containerization for easy deployment
+- ✅ Entity relationships: User → UserRole → Role → RolePermission → Permission
 
 ---
 
 ### 🌐 [Auth Website](https://github.com/chugnv05/auth-website)
-A modern authentication website built with TypeScript and React for user login and registration.
+A modern, full-featured authentication website built with React, TypeScript, and Vite. Provides a beautiful dashboard and authentication interface with state-of-the-art web technologies.
 
 **Tech Stack:**
-- Frontend: TypeScript, React
-- Styling: CSS
-- Framework: Modern web technologies
+- **Frontend**: React 19 with TypeScript
+- **Build Tool**: Vite 8
+- **Routing**: React Router
+- **State Management**: Zustand
+- **Form Management**: React Hook Form + Zod validation
+- **Styling**: TailwindCSS v4 with shadcn/ui components
+- **UI Components**: Radix UI, lucide-react, sonner for notifications
+- **Data Fetching**: React Query
 
-**Language Composition:**
-- TypeScript: 98.8%
-- CSS: 0.6%
-- HTML: 0.4%
-- JavaScript: 0.2%
+**Component Features:**
+- Form validation with react-hook-form & Zod
+- Responsive dialogs and modals
+- Mobile-friendly navigation with sheets/sidebars
+- Data tables for dashboard
+- Authentication tabs and profile management
+- Badge system for roles and status
+- Avatar display with user profiles
+- Toast notifications with sonner
+- Skeleton loading states
 
 **Key Features:**
-- User-friendly authentication interface
-- Modern React components
-- TypeScript for type safety
-- Responsive design
+- ✅ Modern authentication and dashboard interface
+- ✅ Responsive design across all devices
+- ✅ Type-safe development with TypeScript
+- ✅ High-performance build with Vite
+- ✅ Beautiful UI with TailwindCSS & shadcn/ui
+- ✅ Advanced form validation and state management
+- ✅ Toast notifications and loading states
+- ✅ Production-ready setup with environment configuration
 
 ---
 
@@ -129,7 +150,7 @@ I'm actively interested in:
 
 ## 🌌 Fun Fact
 
-Like a black hole, I have an insatiable curiosity for technology and knowledge. I absorb information from all directions and continuously evolve my skills. The difference? I actually create value and contribute back to the community!
+Like a black hole, I have an insatiable curiosity for technology and knowledge. I absorb information from all directions and continuously evolve my skills. The difference? I actually create value and [...]
 
 ---
 
